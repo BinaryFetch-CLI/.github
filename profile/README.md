@@ -511,3 +511,20 @@ BinaryFetch **never breaks** due to user mistakes. (expect json syntax)
 3. **Data Structures:** Well-defined structures for complex data types
 4. **Configuration Integration:** All output is JSON-configurable via helper functions
 5. **Separation of Concerns:** Compact vs Detailed modules for different display needs
+
+
+
+
+
+---
+
+
+
+# Q: What about the linux version of Binary Fetch ?
+# A: It's under develpement.
+# Q: will Linux users also get as much featurs as windows version ?
+# A: Of course, even more.
+# Q: Does Binary Fetch Share user data ?
+# A: Straight No.
+# Q: Does Binary Fetch run in the background ?
+# A: Since it's a CLI tool, it only runs whenever user type the command on terminal
