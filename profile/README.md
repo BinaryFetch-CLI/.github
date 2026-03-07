@@ -519,11 +519,6 @@ BinaryFetch **never breaks** due to user mistakes. (expect json syntax)
 ---
 
 
-**Q: What about the Linux version of Binary Fetch?**  
-**A:** The Linux version is currently under development.  
-
-**Q: Will Linux users get the same features as the Windows version?**  
-**A:** Yes, Linux will have all the features of the Windows version — and potentially more.  
 
 **Q: Does Binary Fetch share user data?**  
 **A:** No. Binary Fetch does not collect or share any user data.  
