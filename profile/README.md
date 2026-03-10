@@ -11,7 +11,7 @@ Built for Windows. Built to last. Built to be shared.
 
 
 <details>
-  <summary><b>Click to expand Project Previews</b></summary>
+ <summary><h2> ~>> Click to expand Project Previews</h2></summary>
 
 ![alt](https://github.com/BinaryFetch-CLI/BinaryFetch/blob/5c7beffcc4306b2e3d8ef5ddec5a64cd1549dae8/Previews/06_preview.jpg)
 ![alt](https://github.com/BinaryFetch-CLI/BinaryFetch/blob/5c7beffcc4306b2e3d8ef5ddec5a64cd1549dae8/Previews/05_preview.jpg)
