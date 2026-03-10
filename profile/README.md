@@ -7,14 +7,6 @@ An advanced Windows system information fetcher written in C++ — featuring self
 Built for Windows. Built to last. Built to be shared.
 
 
-## ✨ Key Philosophy
-
-> **Simplicity is the priority.**
-
-* Two user-editable files
-* Self-healing engine
-* Modular, scalable design
-* Clean separation between *data*, *logic*, and *presentation*
 
 
 
