@@ -18,6 +18,10 @@ Built for Windows. Built to last. Built to be shared.
 
 
 
+<details>
+  <summary><b>Click to expand Project Previews</b></summary>
+  
+  </details>
 
 ## 🚀 What Makes BinaryFetch Different?
 
