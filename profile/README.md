@@ -29,7 +29,7 @@ If a user:
 * deletes `BinaryFetch_Config.json`
 * runs BinaryFetch for the first time
 
-👉 **The engine automatically recreates everything from defaults.**
+
 
 
 
